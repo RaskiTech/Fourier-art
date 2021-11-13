@@ -1,5 +1,5 @@
 # Fourier-art
-See the online version at https://raskitech.github.io/fourier-art
+See the online version at https://raskitech.github.io/Fourier-art
 
 
 
