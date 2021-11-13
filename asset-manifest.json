@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Fourier-art/static/css/main.65b43c81.chunk.css",
-    "main.js": "/Fourier-art/static/js/main.c0989bc3.chunk.js",
-    "main.js.map": "/Fourier-art/static/js/main.c0989bc3.chunk.js.map",
+    "main.css": "/Fourier-art/static/css/main.92a04e93.chunk.css",
+    "main.js": "/Fourier-art/static/js/main.7a03e2cd.chunk.js",
+    "main.js.map": "/Fourier-art/static/js/main.7a03e2cd.chunk.js.map",
     "runtime-main.js": "/Fourier-art/static/js/runtime-main.069a824f.js",
     "runtime-main.js.map": "/Fourier-art/static/js/runtime-main.069a824f.js.map",
     "static/css/2.0a9ec390.chunk.css": "/Fourier-art/static/css/2.0a9ec390.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.7f0f87af.chunk.js.map": "/Fourier-art/static/js/2.7f0f87af.chunk.js.map",
     "index.html": "/Fourier-art/index.html",
     "static/css/2.0a9ec390.chunk.css.map": "/Fourier-art/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.65b43c81.chunk.css.map": "/Fourier-art/static/css/main.65b43c81.chunk.css.map",
+    "static/css/main.92a04e93.chunk.css.map": "/Fourier-art/static/css/main.92a04e93.chunk.css.map",
     "static/js/2.7f0f87af.chunk.js.LICENSE.txt": "/Fourier-art/static/js/2.7f0f87af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.069a824f.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.7f0f87af.chunk.js",
-    "static/css/main.65b43c81.chunk.css",
-    "static/js/main.c0989bc3.chunk.js"
+    "static/css/main.92a04e93.chunk.css",
+    "static/js/main.7a03e2cd.chunk.js"
   ]
 }
